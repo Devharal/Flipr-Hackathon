@@ -1,4 +1,4 @@
-# hackathon Flipr
+# Hackathon Flipr
 
 
 Hii 
